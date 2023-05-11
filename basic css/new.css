@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Basic CSS</title>
+    <style>
+        p{
+            color:red
+            background-color : green ;
+            width : 75% ;
+            height: 100;
+            font-size::content
+            text-align:center;
+        }
+        li{
+            color :blueviolet
+            font-weight:700;
+        
+        }
+    </style>
+</head>
+<body>
+      <p>css =casecading style sheet</p> 
+      <p>purpose make website colorful</p>
+      <p>i am exploring CSS</p>
+      <p>i know how to add color</p>
+      <p>my future hubby where are you </p>
+      <h3>different ways to apply styles</h3>
+      <h4>more heading </h4>
+      <div>
+        this is a div with contantin
+      </div>
+      <ol>
+        <li>inline style </li>
+        <li>embedded internal styles</li>
+        <li>external styles</li>
+    </ol>
+
+
+
+</body>
+</html>

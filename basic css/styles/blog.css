@@ -1,0 +1,19 @@
+header{
+    height: 200px;
+    background-image:url(adorable-small-beautiful-closeup-cutie_1304-2557.jpg);
+}
+h3{
+    color: magenta;
+
+    text-decoration: overline gold;
+}
+.blog{
+    background-color: aquamarine;
+}
+p{
+    color: brown;
+}
+.page-title{
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

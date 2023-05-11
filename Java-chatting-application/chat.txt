@@ -1,0 +1,11 @@
+Server: hi
+Client: hello
+Server: how are u?
+Client: i am fine.what about you?
+Server: ho
+Client: hu
+Server: hi
+Client: hello
+Server: How are You?
+Client: I am Fine.What about you?
+Server: I am fine also
